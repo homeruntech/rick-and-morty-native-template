@@ -1,2 +1,3 @@
 # rick-and-morty-native-template
-Rick and Morty - React Native application template
+
+Write any necessary instructions here useful for running this project.
