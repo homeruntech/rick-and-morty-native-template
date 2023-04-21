@@ -1,9 +1,13 @@
 # OSX
-#
 .DS_Store
 
+# Linting
+.eslintcache
+
+# Testing
+**/coverage
+
 # Xcode
-#
 build/
 *.pbxuser
 !default.pbxuser
@@ -23,7 +27,6 @@ DerivedData
 ios/.xcode.env.local
 
 # Android/IntelliJ
-#
 build/
 .idea
 .gradle
@@ -35,7 +38,6 @@ local.properties
 !debug.keystore
 
 # node.js
-#
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -70,3 +72,9 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Temp files
+**/tmp
+
+# TypeScript cache
+*.tsbuildinfo
