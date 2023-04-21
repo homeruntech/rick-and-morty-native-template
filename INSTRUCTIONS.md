@@ -34,7 +34,7 @@ If a particular version of Yarn should be used to run the project, it should be 
 
 If a particular Android SDK should be used instead of the default one (API 33), it should be specified in the README.
 
-If a particular version of Node should be used, feel free to specify it in the `.node-version` file. If you use NVM, feel free to add `.nvmrc` file.
+The version of Node that should be used to run this project is specified in the `.nvmrc` file. If you want to use a different version, you should update `.nvmrc` accordingly.
 ​
 ## Definition of done
 
