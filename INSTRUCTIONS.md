@@ -73,9 +73,9 @@ Host your project in a **private** Github repository, then add as collaborators:
 - paolorovella
 - sibest19
 - valeriobelli
-​
+
 You can then send us the link via email when the project is ready to be reviewed.
-​
+
 For any questions, don’t hesitate to get in touch with us by replying to the email you received from Sara.
-​
+
 Good luck, may the Force be with you!
