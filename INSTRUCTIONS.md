@@ -65,7 +65,7 @@ The score will depend on the following evaluation criteria, listed below in alph
 - Performance
 - Submission time
 - Tests
-​
+
 Host your project in a **private** Github repository, then add as collaborators:
 ​
 - aydncnar
