@@ -1,18 +1,13 @@
-const path = require('path')
+const { getDefaultConfig, mergeConfig } = require('@react-native/metro-config');
+const path = require('node:path')
 
-module.exports = {
+const config = {
 	entryFile: './index.ts',
-	transformer: {
-		getTransformOptions: async () => ({
-			transform: {
-				experimentalImportSupport: false,
-				inlineRequires: true,
-			},
-		}),
-	},
 	resolver: {
 		extraNodeModules: {
 			'~': path.resolve('./src'),
 		},
 	},
 }
+
+module.exports = mergeConfig(getDefaultConfig(__dirname), config)
