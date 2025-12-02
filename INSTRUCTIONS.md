@@ -24,9 +24,9 @@ The project already has the following scripts set up:
 
 You can use any styling approaches you want to use (e.g., CSS-in-JS, tailwind). You should not use ready-to-use design system libraries (e.g., Tamagui, etc.).
 
-You’re free to select the vendors you consider necessary for the exercise, but be cautious that overcomplicating the implementation might negatively impact the evaluation.
+You’re free to select the vendors you consider necessary for the exercise, but be cautious not to overcomplicate the implementation, as that might negatively impact the evaluation.
 
-You're free to choose the platform (iOS or Android) on which you want to develop the application. Be careful that this platform will be the one on which we'll evaluate your assignment.
+You're free to choose the platform (iOS or Android) you want to develop the application on. Please be careful, as this platform will be the one we use to evaluate your assignment.
 
 ### Heads UP
 
@@ -34,7 +34,7 @@ The project shouldn’t rely on global dependencies. The coding challenge will b
 
 If a particular Android SDK should be used instead of the default one (API 35), it should be specified in the README.
 
-The version of Node that should be used to run this project is specified in the `.node-version` file. If you want to use a different version, you should update `.node-version` accordingly.
+The version of Node to use for this project is specified in the `.node-version` file. If you want to use a different version, you should update `.node-version` accordingly.
 
 ## Definition of done
 
@@ -48,11 +48,11 @@ We won’t test the app on iPad/tablet environments, so we suggest you focus on 
 
 Find meaningful names for your components, functions, and constants; the easier it is to follow your code and reasoning, the better.
 
-Prefer a declarative and composable coding style, leveraging well-known functional programming paradigms that make your project easy to iterate on.
+Prefer a declarative, composable coding style, leveraging well-known functional programming paradigms to make your project easy to iterate on.
 
-Utilize modern React techniques and tools, such as hooks and contexts, where applicable. This will enable us to assess your library knowledge more accurately.
+Utilize modern React techniques and tools, such as hooks and contexts, where applicable. This will allow us to assess your library knowledge more accurately.
 
-We haven't set up lint, format, and test scripts. Consider doing that yourself, given that Code Quality is a scoring metric. =)
+We haven't set up lint, format, and test scripts. Please consider doing that yourself, since Code Quality is a scoring metric. =)
 
 ### Score
 
@@ -61,7 +61,7 @@ The score will depend on the following evaluation criteria, listed below in alph
 - Architecture
 - Code notes/comments
 - Code quality
-- Commit message semantic
+- Commit message semantics
 - Consistent coding style
 - Knowledge of React & React Native
 - Performance
@@ -69,7 +69,7 @@ The score will depend on the following evaluation criteria, listed below in alph
 - Tests
 - Extras (e.g., CI/CD, documentation, innovation, tooling, functional programming)
 
-Host your project in a **private** Github repository, then add as collaborators:
+Host your project in a **private** GitHub repository, then add collaborators:
 
 - aydncnar
 - paolorovella
@@ -79,6 +79,6 @@ Host your project in a **private** Github repository, then add as collaborators:
 
 You can then send us the link via email once the project is ready for review.
 
-For any questions, don’t hesitate to get in touch with us by replying to the email you received from Hazal.
+For any questions, don’t hesitate to get in touch with us by replying to the email you received from Viola.
 
 Good luck, may the Force be with you!
