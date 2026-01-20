@@ -48,7 +48,7 @@ We won’t test the app on iPad/tablet environments, so we suggest you focus on 
 
 Find meaningful names for your components, functions, and constants; the easier it is to follow your code and reasoning, the better.
 
-Prefer a declarative, composable coding style, leveraging well-known functional programming paradigms to make your project easy to iterate on.
+Prefer a declarative, composable coding style that leverages well-known functional programming paradigms to make your project easy to iterate on.
 
 Utilize modern React techniques and tools, such as hooks and contexts, where applicable. This will allow us to assess your library knowledge more accurately.
 
@@ -76,8 +76,10 @@ Host your project in a **private** GitHub repository, then add collaborators:
 - sibest19
 - tommaso-sebastianelli
 - valeriobelli
+- mahdieh-sedaghat
+- gionathas
 
-You can then send us the link via email once the project is ready for review.
+You can then email us the link once the project is ready for review.
 
 For any questions, don’t hesitate to get in touch with us by replying to the email you received from Viola.
 
